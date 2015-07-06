@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\StateMachine\State\FollowPathState.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Utils\GeneratePathArray.cs" Line="22" Column="18" />
+      <File FileName="Assets\Scripts\Entity\NPCControl.cs" Line="17" Column="43" />
+      <File FileName="Assets\Scripts\StateMachine\State\FollowPathState.cs" Line="65" Column="32" />
+      <File FileName="Assets\Scripts\StateMachine\Base\FSMSystem.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\StateMachine\Base\FSMState.cs" Line="90" Column="1" />
+      <File FileName="Assets\Scripts\StateMachine\Base\FSMDefine.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\StateMachine\State\ChasePlayerState.cs" Line="46" Column="42" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
